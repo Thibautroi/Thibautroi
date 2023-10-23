@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello everyone/ Xin chào mọi người / Bonjour tout le monde  👋
 
-<!--
-**MeVietName/MeVietName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ☁️ About me ☁️:
+My name is Thibaut. I come from France. My ethnic are French 🇫🇷 and Vietnamese🇻🇳. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since my childhood I am on the computer. Computers fascinated me a lot, I was playing a lot a video game called, Minecraft. I wanted to create a server to welcoming people from around the world and play with them, but I didn't have knowledge in computer, in coding. I wished that I had knowledge in computers to do everything I want on my computer, this desire helped me to find the path I wanted to take when I would be an adult. Working in information technology.
+
+
+## My knowledges/skills 💻 :
+
+<!-- Icons from killicons.dev -->
+
+#### Languages 
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,bash)](https://skillicons.dev)
+
+#### Technology
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,git,photoshop)](https://skillicons.dev)
+<br> + i3 </br>
+
+#### Learning 
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+## My stats 📊 :
+<!-- Stats thank to https://github.com/anuraghazra/github-readme-stats
+      Theme = ayu-mirage -->
+<p>
+<img src=https://github-readme-stats.vercel.app/api?username=MeVietName&theme=ayu-mirage>
+</p>
+<p>
+<img src=https://github-readme-stats.vercel.app/api/wakatime?username=MeVietName&theme=ayu-mirage&langs_count=20&layout=compact>
+</p>
