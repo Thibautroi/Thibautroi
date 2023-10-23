@@ -14,7 +14,7 @@ Since my childhood I am on the computer. Computers fascinated me a lot, I was pl
 #### Languages 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,bash)](https://skillicons.dev)
 
-#### Technology
+#### Technologies
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,git,photoshop)](https://skillicons.dev)
 <br> + i3 </br>
 
