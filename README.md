@@ -1,4 +1,4 @@
-# Hello everyone/ Chào mọi người / Bonjour tout le monde  👋
+# Hello everyone / Chào mọi người / Bonjour tout le monde  👋
 
 
 ## ☁️ About me ☁️:
