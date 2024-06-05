@@ -4,7 +4,7 @@
 ## ☁️ About me ☁️:
 My name is Thibaut. I come from France. My ethnicity are French 🇫🇷 and Vietnamese 🇻🇳. 
 
-Since my childhood I am on the computer. Computers fascinated me a lot, I was playing a lot a video game called, Minecraft. I wanted to create a server to welcoming people from around the world and play with them, but I didn't have knowledge in computer, in coding. I wished that I had knowledge in computers to do everything I want on my computer, this desire helped me to find the path I wanted to take when I would be an adult. Working in information technology.
+Since my childhood I am on the computer. Computers fascinated me a lot, I was playing a lot a video game called, Minecraft. I wanted to create a server to welcoming people from around the world and play with them, but I didn't have knowledge in computer, in coding. I wished that I had knowledge in computers to do everything I want on my computer, this desire helped me find the path for my future. Working in information technology.
 
 
 ## My knowledges/skills 💻 :
