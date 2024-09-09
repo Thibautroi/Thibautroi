@@ -19,7 +19,7 @@ Since my childhood I am on the computer. Computers fascinated me a lot, I was pl
 <br> + i3 </br>
 
 #### Learning 
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp)](https://skillicons.dev)
 
 ## My stats 📊 :
 <!-- Stats thank to https://github.com/anuraghazra/github-readme-stats
