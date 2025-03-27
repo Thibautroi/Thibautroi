@@ -25,7 +25,7 @@ Since my childhood I am on the computer. Computers fascinated me a lot, I was pl
 <!-- Stats thank to https://github.com/anuraghazra/github-readme-stats
       Theme = ayu-mirage -->
 <p>
-<img src=https://github-readme-stats.vercel.app/api?username=MeVietName&theme=ayu-mirage>
+<img src=https://github-readme-stats.vercel.app/api?username=Thibautroi&theme=ayu-mirage>
 </p>
 <p>
 <img src=https://github-readme-stats.vercel.app/api/wakatime?username=MeVietName&theme=ayu-mirage&langs_count=20&layout=compact>
